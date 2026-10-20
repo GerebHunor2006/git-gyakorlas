@@ -1,1 +1,1 @@
-# git-gyakorlas
+Git gyakorlas
